@@ -10,6 +10,7 @@ Duration:December - Feburary 2025
 
 Mentor:Sravani
 
+
 # Social Media Sentiment Analysis
 
 ## Dataset
@@ -165,4 +166,8 @@ rates within better training times.
 For accuracy rates of Naive Bayes models there is a small difference like
 1.5%. As a result of that, we can say that Naive Bayes with the CountVectorizer
 method gives better results than Naive Bayes with the TF-IDF method.
+
+
+
+
 
