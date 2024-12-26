@@ -24,7 +24,7 @@ The dataset contains 1,600,000 tweets extracted using the twitter api. The tweet
 
 We remove tweets that have a length of 0. After this process, the dataset has a dimension of 1592328×2
 Positive and negative samples are equal. The dataset distribution has not any skewness as shown below.
-![datadist](imgs/1.png)
+![datadist](1.png)
 
 # Preprocessing
 ## Chart/Figures of Attribute
